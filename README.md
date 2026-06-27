@@ -6,6 +6,7 @@ I've removed broken mods and placed ones that aren't used normally inside specia
 
 ### Halo CE:
 Increase jump height is finnicky and can make your jump so high that you launch "into space" lol, be careful with it
+Don't use 'AI can't fire' or 'AI don't see you' on Truth and Reconciliation because the enemies in the first hangar will not rush you and you will be soft locked.
 
 ### Halo 2:
 "Infinite shield" carries over to unmodded playthroughs after save is made. For example, if you play with the mods and turn infinite shield on, when you save and quit and reload the game, you will still have MANY layers of overshield. It's no longer infinite, but you can get shot in LASO for around 60 seconds before you actually die. This is very valuable in Cairo Station at the end.
