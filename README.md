@@ -5,7 +5,7 @@ I've removed broken mods and placed ones that aren't used normally inside specia
 ## Known quirks
 
 ### Halo CE:
-- Increase jump height is finnicky and can make your jump so high that you launch "into space" lol, be careful with it
+- Increase jump height is finnicky and can make your jump so high that you launch "into space" lol, be careful with it. Or depending on your version, it will make your jumps barely come off the ground.
 - Don't use 'AI can't fire' or 'AI don't see you' on Truth and Reconciliation because the enemies in the first hangar will not rush you and you will be soft locked.
 
 ### Halo 2:
